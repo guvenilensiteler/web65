@@ -220,6 +220,56 @@
         "miktar": "2222 FS",
         "promo_code_yok": "70 ULKEDE 200 OTEL GUVENCESI BELGESIZ CEKIM",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ercuaprmd",
+        "desc": [
+          "500 TL DENEME BONUSU"
+        ],
+        "site": "ramadabet",
+        "sort": null,
+        "color": "#ca1640",
+        "miktar": "₺500",
+        "promo_code_yok": "HAFTALIK %5 KAYIP BONUSU!",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/pzercuapp",
+        "desc": [
+          "YENİ ÜYELERE 1.000 TL DENEME BONUSU"
+        ],
+        "site": "palazzobet",
+        "sort": null,
+        "color": "#4857c3",
+        "miktar": "₺1.000",
+        "promo_code_yok": "%25 Anlık Kayıp Bonusu - Haftalık %5 Telafi Bonusu",
+        "slider_img": ""
+      },
+      {
+        "url": "https://dedeaff.com/processing/click?btag=2167_2147",
+        "desc": [
+          "YATIRIM ŞARTSIZ 250TL DENEME BONUSU!"
+        ],
+        "site": "dedebet",
+        "sort": null,
+        "color": "#d3b768",
+        "miktar": "₺250",
+        "promo_code": null,
+        "promo_code_yok": "TOPLAMDA %600 HOŞGELDİN BONUSU",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/ercuapdama",
+        "desc": [
+          "ÇEVRİMSİZ 250TL DENEME BONUSU!"
+        ],
+        "site": "damabet",
+        "sort": null,
+        "color": "#ffc300",
+        "miktar": "₺250",
+        "promo_code": null,
+        "promo_code_yok": "HEMEN ÜYE OL 250₺ BONUS AL!",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -324,6 +374,22 @@
           {
             "site": "sheratonbet",
             "sort": "4"
+          },
+          {
+            "site": "ramadabet",
+            "sort": "5"
+          },
+          {
+            "site": "palazzobet",
+            "sort": "6"
+          },
+          {
+            "site": "dedebet",
+            "sort": "7"
+          },
+          {
+            "site": "damabet",
+            "sort": "8"
           }
         ]
       },
